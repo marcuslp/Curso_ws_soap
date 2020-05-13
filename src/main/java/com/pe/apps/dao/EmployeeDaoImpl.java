@@ -17,6 +17,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	
 	Logger logger = Logger.getLogger(EmployeeDaoImpl.class);
 	//primer comentario
+	//segundo comentario
 	
 	@Autowired
 	private SessionFactory sessionFactory;
