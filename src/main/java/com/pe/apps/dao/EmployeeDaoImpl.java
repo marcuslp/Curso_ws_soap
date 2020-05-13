@@ -16,9 +16,10 @@ import com.pe.apps.entity.Employee;
 public class EmployeeDaoImpl implements EmployeeDao {
 	
 	Logger logger = Logger.getLogger(EmployeeDaoImpl.class);
-	//primer comentario
-	//segundo comentario
-	//tercer comentario para squash
+	//primer comentario para squash
+	//segundo comentario para squash
+	//tercer comentario
+	//cuarto comentario
 	
 	@Autowired
 	private SessionFactory sessionFactory;
