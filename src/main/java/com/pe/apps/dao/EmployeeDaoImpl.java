@@ -16,6 +16,7 @@ import com.pe.apps.entity.Employee;
 public class EmployeeDaoImpl implements EmployeeDao {
 	
 	Logger logger = Logger.getLogger(EmployeeDaoImpl.class);
+	//primer comentario
 	
 	@Autowired
 	private SessionFactory sessionFactory;
